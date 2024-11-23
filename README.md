@@ -22,3 +22,4 @@ Bu projede Boston Housing veri seti kullanılarak keşifsel veri analizi (EDA) g
 Bu analiz, gayrimenkul sektöründe ev fiyatları hakkında tahminler yapmak için kullanılabilir.
 
 https://www.kaggle.com/code/klaydaahin/the-boston-housing-dataset
+the-boston-housing-dataset.ipynb
